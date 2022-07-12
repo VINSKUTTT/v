@@ -1,0 +1,30 @@
+[{
+"nama obat" : "Panadol",
+"harga" : 10000,
+"desk" : "Obat untuk meredakan flu ringan dan sakit kepala",
+"photo" : "https://imgur.com/X8MukkO"
+},
+{
+"nama obat" : "OBH COMBI",
+"harga" : 20000,
+"desk" : "Obat untuk meredakan Batuk dan Flu",
+"photo" : "https://imgur.com/PfDcQLl"
+},
+{
+"nama obat" : "Paramex",
+"harga" : 2000,
+"desk" : "Obat untuk meredakan demam",
+"photo" : "https://imgur.com/gMQc08o"
+},
+{
+"nama obat" : "Promag",
+"harga" : 7000,
+"desk" : "Obat untuk mengatasi sakit maag",
+"photo" : "https://imgur.com/undefined"
+},
+{
+"nama obat" : "Balsem lang",
+"harga" : 10000,
+"desk" : "Obat untuk pereda sakit pusing, masuk angin, dan pegal-pegal",
+"photo" : "https://imgur.com/n5l4gBa"
+}]
